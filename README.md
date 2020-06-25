@@ -1,6 +1,6 @@
 # LeetCode ![Language](https://img.shields.io/badge/language-Python%20%2F%20MySQL-blue.svg) 
 
-Part of my daily plan for studying Python.
+Part of my Daily Pratice Plan of Problem Solving using Python and MySQL
 
 ## ALgorithms
 
